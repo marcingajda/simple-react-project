@@ -1,0 +1,10 @@
+:local(.artistCard) {
+  margin-top: 20px;
+  display: block;
+  overflow: hidden;
+
+  .artistCard__image {
+    float: left;
+    margin-right: 10px;
+  }
+}

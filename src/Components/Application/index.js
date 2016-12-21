@@ -1,0 +1,1 @@
+export {ApplicationContainer as default} from './ApplicationContainer'
